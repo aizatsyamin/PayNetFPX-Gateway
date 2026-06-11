@@ -1,0 +1,11 @@
+{
+  "name": "PayNetFPX-Gateway",
+  "version": "1.0.0",
+  "description": "ASP.NET 10 Payment Gateway for PayNet FPX integration",
+  "keywords": ["payments", "fpx", "paynet", "gateway", "aspnetcore"],
+  "author": "aizatsyamin",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
